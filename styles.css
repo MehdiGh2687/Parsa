@@ -1,0 +1,114 @@
+.header{
+    background-color: 7171F0;
+    height: 300px;
+}
+
+
+.header h4{
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(9, 255, 0);
+    margin-left: 180px;
+    padding-top: 120px;
+    
+}
+
+.header img{
+    margin-left: 50px;
+    float: left;
+    
+}
+
+.footer{
+    
+    margin-top: 10px;
+    width: 99%;  
+    position: absolute;
+    text-align: center;
+    color: black;
+    background-color: 5120CE;
+    bottom: 0;
+}
+
+.content-title{
+    text-align: center;
+    border-bottom: 3px solid black;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.content{
+    text-align: center;
+   
+}
+
+.zibaii{
+    box-shadow: 0 1px 1em rgba(0,0,0,.2);
+    height: 380px;
+    border: 2px solid black;
+    margin-top: 45px;
+}
+
+
+.ravande{
+    background-color: 170544;
+    text-size-adjust: 50px;
+    margin-top: 140px;
+    padding-bottom: 3px;
+    color: yellow;
+    margin-bottom: 3px;
+}
+
+.button{
+background-color: rgb(252, 0, 0);
+height: 40px;
+}
+
+.button ul{
+    margin: 0;
+}
+
+.button li{
+    display: inline-block
+    
+}
+
+.button li{
+    margin-top: 10px;
+    padding-right: 40px;
+}
+
+.menu a{
+    background-color: rgb(33, 104, 209);
+    text-decoration: none;
+    margin-bottom: 5px;
+    color: white;
+    padding: 5px;
+    border-radius: 4px;
+}
+
+.button li:hover{
+    position: relative;
+    top: 2px;
+}
+
+.hozoor{
+    text-align: center;
+    box-shadow: 0 1px 1em rgba(0,0,0,.2);
+}
+
+
+.ghyab{
+    text-align: center;
+    border: black;
+    box-shadow: 0 1px 1em rgba(0,0,0,.2);
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+
+
+.ghayeb{
+    text-align: center;
+    border: black;
+    box-shadow: 0 1px 1em rgba(0,0,0,.2);
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
